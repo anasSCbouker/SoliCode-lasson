@@ -38,9 +38,3 @@
 - **No** → Is it only for the interface? → Temporary (mot_cle, message_erreur)
 
 ---
-
-## Key Points
-
- **Stored data**: Essential data to keep over time  
- **Calculated data**: Data produced automatically from other data  
- **Temporary data**: Ephemeral interface data - ignore when designing database
