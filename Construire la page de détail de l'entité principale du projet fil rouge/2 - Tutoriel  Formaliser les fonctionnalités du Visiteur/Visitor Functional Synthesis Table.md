@@ -23,23 +23,3 @@
 | Visitor | Return to home page | Any page → Click logo "MonBlog" → Go to home page |
 
 ---
-
-## Summary
-
-| # | Functionality | Pages Involved |
-|---|--------------|----------------|
-| 1 | View article list | Home |
-| 2 | Filter by category | Home |
-| 3 | View all articles | Home → Category |
-| 4 | Read an article | Home → Article |
-| 5 | Navigate between articles | Article |
-| 6 | View articles by category | Category |
-| 7 | View About page | About |
-| 8 | Follow on social media | About |
-| 9 | Go to admin login | Any → Login |
-| 10 | Try admin login | Login |
-| 11 | View legal info | Any (footer) |
-| 12 | View privacy policy | Any (footer) |
-| 13 | Return to home | Any |
-
----

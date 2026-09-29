@@ -28,13 +28,3 @@
 - **message_erreur**: Only shown on screen. Error message is temporary UI feedback.
 
 ---
-
-## Design Filter Summary
-
-**Question to ask:** "Should this data be found tomorrow by the application?"
-
-- **Yes** → Stored in database (titre_article, date_publication)
-- **No** → Can it be calculated? → Calculated (duree_lecture)
-- **No** → Is it only for the interface? → Temporary (mot_cle, message_erreur)
-
----
