@@ -7,5 +7,5 @@ for(let nm = 1 ; nm <= 20 ; nm++){
         sm = sm + nm
     }
 }
-console.log("Even NM: " + cp )
+console.log("Even CP: " + cp )
 console.log("Even SM: " + sm)

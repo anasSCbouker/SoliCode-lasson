@@ -1,4 +1,4 @@
-let tp = 58;
+let tp = 25;
 if(tp <= 10){
     console.log("Cold")
 }
