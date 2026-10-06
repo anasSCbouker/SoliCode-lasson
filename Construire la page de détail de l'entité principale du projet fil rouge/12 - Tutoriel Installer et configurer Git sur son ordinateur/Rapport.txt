@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.26200.8655]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Solicode>git --version
+git version 2.55.0.windows.5
+
+C:\Users\Solicode>git config --global user.name
+anasSCbouker
+
+C:\Users\Solicode>git config --global user.email
+anas.solicode@gmail.com
+
+C:\Users\Solicode>
