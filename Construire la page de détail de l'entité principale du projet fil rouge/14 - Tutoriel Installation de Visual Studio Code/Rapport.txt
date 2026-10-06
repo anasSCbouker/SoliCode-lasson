@@ -1,0 +1,9 @@
+Microsoft Windows [Version 10.0.26200.8655]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Solicode>code --version
+1.140.0
+07f806f999227108933c2e30515b26eecc1fda74
+x64
+
+C:\Users\Solicode>
