@@ -1,0 +1,16 @@
+.title {
+    color: brown;
+}
+
+h2,
+h3 {
+    color: blueviolet;
+}
+
+.first.article p {
+    color: blue;
+}
+
+p {
+    color: teal;
+}
