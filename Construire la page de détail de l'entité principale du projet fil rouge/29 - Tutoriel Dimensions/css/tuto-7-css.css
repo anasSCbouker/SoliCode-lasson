@@ -1,0 +1,9 @@
+.firstdiv {
+    max-width: 800px;
+}
+.img {
+    display: block;
+    width: 1200px;
+    height: 600px;
+    object-fit: cover;
+}
