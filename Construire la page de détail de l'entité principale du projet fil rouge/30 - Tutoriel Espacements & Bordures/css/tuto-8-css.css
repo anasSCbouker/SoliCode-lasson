@@ -16,5 +16,5 @@ body{
     padding: 15px 20px;
     background: white;
     border-left: 5px solid blue;
-    border-radius: 0 1Opx 0 10px;
+    border-radius: 0 10px 10px 0;
 }
