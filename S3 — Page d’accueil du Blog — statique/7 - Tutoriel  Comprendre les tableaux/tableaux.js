@@ -1,0 +1,15 @@
+let nm;
+nm = ["Anas","Odin","Shiva","Laila"];
+console.log(nm[3]);
+console.log(nm);
+console.log(nm[4]);
+console.log(nm.length);
+nm.push("Nour");
+console.log(nm[4]);
+console.log(nm.length);
+console.log(nm);
+console.log(nm.length-1);
+nm.push("Rayan");
+console.log(nm);
+nm.pop();
+console.log(nm);
