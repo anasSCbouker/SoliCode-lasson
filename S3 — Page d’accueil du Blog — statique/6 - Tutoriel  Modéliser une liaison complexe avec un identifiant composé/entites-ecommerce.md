@@ -21,7 +21,7 @@ This is a "Many-to-Many" link.
 2. **Change problem:** If Ali changes his name, we must change it in many lines.
 3. **No clear ID:** What is the ID of this table? No single column is unique.
 
-### Another Wrong Example (The Handwritten Picture)
+### Another Wrong Example 
 | Order ID | Product Name | Client Name |
 |---|---|---|
 | 101 | PHP | Ali |
