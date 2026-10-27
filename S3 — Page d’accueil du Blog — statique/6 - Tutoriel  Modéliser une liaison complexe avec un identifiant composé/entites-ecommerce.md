@@ -7,7 +7,7 @@
 
 This is a "Many-to-Many" link.
 
-## 2. The WRONG Way (Look at the Red X)
+## 2. The WRONG Way 
 
 ### Wrong Example Table
 | client_name | order_date | product_name | quantity_ordered |
@@ -21,7 +21,7 @@ This is a "Many-to-Many" link.
 2. **Change problem:** If Ali changes his name, we must change it in many lines.
 3. **No clear ID:** What is the ID of this table? No single column is unique.
 
-### Another Wrong Example (The Handwritten Picture)
+### Another Wrong Example 
 | Order ID | Product Name | Client Name |
 |---|---|---|
 | 101 | PHP | Ali |
@@ -35,7 +35,7 @@ This table is messy. (Red X).
 
 ---
 
-## 3. The CORRECT Way (Look at the Green Tables)
+## 3. The CORRECT Way 
 
 We must split the data into **4 clean tables**.
 We make a "Bridge Table" to connect Order and Product.
