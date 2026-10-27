@@ -7,7 +7,7 @@
 
 This is a "Many-to-Many" link.
 
-## 2. The WRONG Way (Look at the Red X)
+## 2. The WRONG Way 
 
 ### Wrong Example Table
 | client_name | order_date | product_name | quantity_ordered |
