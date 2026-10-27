@@ -35,7 +35,7 @@ This table is messy. (Red X).
 
 ---
 
-## 3. The CORRECT Way (Look at the Green Tables)
+## 3. The CORRECT Way 
 
 We must split the data into **4 clean tables**.
 We make a "Bridge Table" to connect Order and Product.
