@@ -34,7 +34,7 @@ for (let i = 0; i < nombres.length; i++) {
 }
 
 if (position !== -1) {
-    console.log("La valeur " + recherche + " est présente dans le tableau.");
+    console.log("The value " + recherche + " is present in the array.");
 } else {
-    console.log("La valeur " + recherche + " est absente du tableau.");
+    console.log("The value " + recherche + " is not present in the array.");
 }
