@@ -1,0 +1,17 @@
+.article-card {
+    background-color: white;
+    border: 1px solid gray;
+    margin-bottom: 24px;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card-content h3 {
+    margin: 0;
+}
+
+.card-content p {
+    margin: 12px 0;
+}
