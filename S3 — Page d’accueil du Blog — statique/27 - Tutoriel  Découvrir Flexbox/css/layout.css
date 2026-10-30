@@ -1,0 +1,24 @@
+.site-header {
+    padding: 20px 24px;
+    background: white;
+    border-bottom: 1px solid #e5e7eb;
+}
+.logo {
+    font-family: Georgia, serif;
+    font-size: 22px;
+    font-weight: 900;
+}
+.logo-dark {
+    color: #111827;
+}
+.logo-color {
+    color: #2673e8;
+}
+.navigation-links a {
+    color: #6b7280;
+    font-size: 14px;
+    font-weight: 500;
+}
+.navigation-bar {
+    display: flex;
+}
