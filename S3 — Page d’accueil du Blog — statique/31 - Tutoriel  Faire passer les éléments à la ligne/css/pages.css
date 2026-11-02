@@ -1,0 +1,17 @@
+
+.category-filters {
+    margin: 64px 24px;
+    text-align: center;
+}
+
+.category-filters h2 {
+    margin: 0 0 20px;
+    color: #111827;
+    font-size: 18px;
+}
+
+.filter-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
