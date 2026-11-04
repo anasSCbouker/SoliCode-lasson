@@ -1,0 +1,31 @@
+.hero, article, .contact {
+    padding: 32px;
+    background: #111827;
+    border-radius: 12px;
+}
+.hero, .contact {
+    text-align: center;
+}
+.hero h1 {
+    font-size: 40px;
+}
+.hero p, article p, .contact p {
+    color: #94a3b8;
+}
+.button, .contact-list a {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #1d4ed8;
+    border-radius: 8px;
+}
+.cards, .contact-list {
+    flex-wrap: wrap;
+}
+article {
+    flex: 1;
+}
+.contact-list {
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+}
