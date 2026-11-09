@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #f1f5f9;
+    background: #0b1120;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 8%;
+    background: #111827;
+}
+
+header h2, article h3 {
+    color: #3b82f6;
+}
+nav, .cards, .contact-list {
+    display: flex;
+    gap: 20px;
+}
+nav a, .button, .contact-list a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    max-width: 1000px;
+    margin: auto;
+    padding: 24px;
+}
+
+section {
+    margin-bottom: 48px;
+}
+.hero, article, .contact {
+    padding: 32px;
+    background: #111827;
+    border-radius: 12px;
+}
+.hero, .contact, footer {
+    text-align: center;
+}
+.hero h1 {
+    font-size: 40px;
+}
+.hero p, article p, .contact p, footer {
+    color: #94a3b8;
+}
+.button, .contact-list a {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #1d4ed8;
+    border-radius: 8px;
+}
+.cards, .contact-list {
+    flex-wrap: wrap;
+}
+article {
+    flex: 1;
+}
+.contact-list {
+    justify-content: center;
+    padding: 0;
+    list-style: none;
+}
+footer {
+    padding: 24px;
+    background: #111827;
+}
