@@ -11,5 +11,3 @@ let grandePiece = estGrand(surfacePiece);
 
 console.log("Calculated area: " + surfacePiece + " m²");
 console.log("Large room: " + grandePiece);
-
-
